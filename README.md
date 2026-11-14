@@ -1,7 +1,8 @@
 # ufimtsev-hub.github.io
 ## Тут всякая фигня
 ### И тут
-```geojson
+```
+geojson
 {
   "type": "FeatureCollection",
   "features": [
@@ -26,10 +27,12 @@
     }
   ]
 }
+
 ```
 
 
-```mermaid
+```
+mermaid
 graph TD;
     A-->B;
     A-->C;
