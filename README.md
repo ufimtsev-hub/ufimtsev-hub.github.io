@@ -1,9 +1,7 @@
 # ufimtsev-hub.github.io
 ## Тут всякая фигня
 ### И тут
-'''
-
-geojson
+```geojson
 {
   "type": "FeatureCollection",
   "features": [
@@ -28,5 +26,4 @@ geojson
     }
   ]
 }
-
-'''
+```
