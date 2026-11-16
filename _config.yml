@@ -4,3 +4,4 @@ plugins:
 title: Andrey Ufimtsev homepage
 description: Тра-ля-ля-ля!
 markdown: GFM
+mermaid: true
